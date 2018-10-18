@@ -87,3 +87,9 @@ will be gone.
     Singularity ubuntu.sif:~> which vim
 
     Singularity ubuntu.sif:~> exit
+
+-----------------
+Multiple overlays
+-----------------
+
+New in Singularity 3.0, you can use multiple overalays at the same time.  
